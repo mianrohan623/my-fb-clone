@@ -1,0 +1,33 @@
+:root {
+    /*                                                This is font size                           */
+    --fs-40px: 40px;
+    --fs-14px: 14px;
+    --fs-17px: 17px;
+    --fs-15px: 15px;
+    --fs-22px: 22px;
+    --fs-20px: 20px;
+    --fs-24px: 24px;
+    --fs-13px: 13px;
+    --fs-26px: 26px;
+    /*                                                This is box shadow                                 */
+    --shadow-1: -3px 3px 14px rgb(222, 222, 222);
+    --shadow-2: 0px 3px 14px rgb(226, 226, 226);
+
+    /*                                             This is color's                                       */
+    --white: #fff;
+    --cyan-08: #0866ff;
+    --white-blue-f0: #f0f2f5;
+    --grey-65: #65676b;
+    --black: #000;
+    --white-blue-e3: #e3e5e9;
+    --white-aqus-e7: #e7f8fa;
+    --white-blue-f7: #f7f8fa;
+    --grey-c1: #c1c1c1;
+    --grey-blue-rgb-141: rgb(141 148 158);
+    --light-grey-ce: #ced0d4;
+    --light-grey-f5: #f5f5f5;
+    --blue-gray-e4: #e4e6eb;
+    --grey-60: #606770;
+    --transparent-black: rgba(0, 0, 0, 0.049);
+    --blue-grey-db: #dbdee4;
+}
